@@ -4,3 +4,4 @@ node_modules
 *.webm
 dist/episode*
 .env
+.Rproj.user
